@@ -60,8 +60,8 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **YOUR_EMAIL**
-- 💼 LinkedIn: **YOUR_LINKEDIN**
+- 📧 Email: ibrahimakdas00@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahimakdas/
 
 ---
 
