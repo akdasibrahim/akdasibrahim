@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm İbrahim Akdaş</h1>
-<h3 align="center">Data Science & Analyst • NLP • Decision Support Systems</h3>
+<h3 align="center">Data Science & Analyst • Deep Learning • NLP • Decision Support Systems</h3>
 
 ---
 
